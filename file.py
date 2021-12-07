@@ -1,3 +1,3 @@
-version = 1.0
+version = input("Enter the version:  ")
 
 print("HELLO world !!! ver : ", version)
